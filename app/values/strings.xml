@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MediaPlayer</string>
+    <string name="zero">0:00</string>
+    <string name="page_title">Home</string>
+    <string name="favorite">favorite</string>
+    <string name="content_description_favorite">content_description_favorite</string>
+    <string name="content_description_search">content_description_search</string>
+    <string name="home">home</string>
+    <string name="search">search</string>
+    <string name="content_description_more">content_description_more</string>
+    <string name="more">more</string>
+    <string name="content_description_media">content_description_media"</string>
+    <string name="album">Album</string>
+    <string name="createAlbum"><u>Tạo mới</u></string>
+    <string name="song">Bài hát</string>
+    <string name="showMore"><u>Hiển thị thêm</u></string>
+    <string name="songLiked">Bài hát yêu thích</string>
+    <string name="albumLiked">Album yêu thích</string>
+</resources>
